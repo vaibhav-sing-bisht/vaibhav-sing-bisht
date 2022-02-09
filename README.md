@@ -14,6 +14,6 @@ on projects to gain experience in Machine Learning & Data Science.
 
 -How to reach me ...
 
-📬 bishtvaibhav91@gmail.com
+Anyone can also contact me via   : 📬 bishtvaibhav91@gmail.com
 
-📲📞 +91 7275441361
+📲📞 +91 7355128860 & +91 7275441361
