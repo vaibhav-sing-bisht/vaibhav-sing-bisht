@@ -12,7 +12,7 @@
 I’m looking to collaborate 💞️
 on projects to gain experience in Machine Learning & Data Science.
 
--How to reach me ...
+-How to reach me ... 📬 bishtvaibhav91@gmail.com
 
-Anyone can also contact me via  ![Gmail-logo-color](https://user-images.githubusercontent.com/87828805/153260015-eceab1c1-ee07-4009-b9fb-dea2d27aa952.jpg | width=100)
+Anyone can also contact me via  
 📲📞 +91 7355128860 & +91 7275441361
