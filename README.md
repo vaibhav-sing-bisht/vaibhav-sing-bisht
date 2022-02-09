@@ -1,4 +1,4 @@
-## Hello there 👋 , I am Vaibhav.
+# <h2 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello there! My name is Vaibhav</h2>
 
 ![1_U3WRRwLx3zeDkHmIVGLJdw](https://user-images.githubusercontent.com/87828805/144579071-9f6139c4-a52a-43a5-8a03-31f012611c47.gif)
 
