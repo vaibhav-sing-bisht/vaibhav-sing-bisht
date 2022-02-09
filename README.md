@@ -12,7 +12,8 @@
 I’m looking to collaborate 💞️
 on projects to gain experience in Machine Learning & Data Science.
 
--How to reach me ... 📬 bishtvaibhav91@gmail.com
+-How to reach me ... [LinkedIn](https://www.linkedin.com/in/vaibhav-singh-bisht-27dsba/)
+📬 bishtvaibhav91@gmail.com
 
 Anyone can also contact me via  
 📲📞 +91 7355128860 & +91 7275441361
