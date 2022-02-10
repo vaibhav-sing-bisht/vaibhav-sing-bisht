@@ -38,14 +38,18 @@ Anyone can also contact me via
 
 | Skill | Technologies worked on | 
 |:--|:------------|
-| Programming | Python,Scala, R , C++ |
-| DataBase | SQL, Sqlite |
+| Programming | Python, R , C++ |
+| DataBase | MYSQL, Sqlite |
+| Python for Data Science | Python Functions, Data Interpretation |
 | Tools/ IDE | PyCharm, Jupyter Notebook |
-| Machine Learning | EDA, ML-Algorithms, Execution with python |
+| Machine Learning | EDA, ML-Algorithms, Execution with python,Support Vector Machine - K Nearest Neighbour - Naive Bayes, Ensemble Techniques, Logistic Regression - Linear Discriminant Analysis|
 | Deep Learning | Neural Networks , Computer Vision, Transfer learning, Execution with Python |
-| Natural Language Processing | Neural Network , Transfer learning, Execution with Python |
-| Big Data | Hadoop , Spark |
-| Cloud | Basic AWS | Azure|
+| Natural Language Processing | Neural Network , Transfer learning, Execution with Python ,Text Mining Analytics |
+| Advanced Statistics | ANOVA, EDA, Descriptive Statistics, Probability, Estimation, Hypothesis Testing, PCA |
+| Data Mining | Clustering, CART, Random Forest|
+| Predictive Modeling | Linear Regression, Logistic Regression, Linear discriminant Analysis|
+| Predictive Modeling | Linear Regression, Logistic Regression, Linear discriminant Analysis|
+| Cloud | Basic AWS , Azure|
 | Operating System | MacOs, Windows |
 | Version control | GIT |
 
