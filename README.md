@@ -48,7 +48,7 @@ Anyone can also contact me via
 | Advanced Statistics | ANOVA, EDA, Descriptive Statistics, Probability, Estimation, Hypothesis Testing, PCA |
 | Data Mining | Clustering, CART, Random Forest|
 | Predictive Modeling | Linear Regression, Logistic Regression, Linear discriminant Analysis|
-| Predictive Modeling | Linear Regression, Logistic Regression, Linear discriminant Analysis|
+| Data Visualization | TABLEAU , PowerBI (Microsoft Certified (Exam DA-100)|
 | Cloud | Basic AWS , Azure|
 | Operating System | MacOs, Windows |
 | Version control | GIT |
