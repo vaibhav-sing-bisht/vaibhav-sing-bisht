@@ -33,3 +33,41 @@ Anyone can also contact me via
 +91 7275441361
 
 <img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/phone.svg" alt="vaibhav-sing-bisht" height="30" width="40" /></a> +91 7355128860
+
+## :wrench: Job Responsiblities
+
+| Skill | Technologies worked on | 
+|:--|:------------|
+| Programming | Python,Scala, R , C++ |
+| DataBase | SQL, Sqlite |
+| Tools/ IDE | PyCharm, Jupyter Notebook |
+| Machine Learning | EDA, ML-Algorithms, Execution with python |
+| Deep Learning | Neural Networks , Computer Vision, Transfer learning, Execution with Python |
+| Natural Language Processing | Neural Network , Transfer learning, Execution with Python |
+| Big Data | Hadoop , Spark |
+| Cloud | Basic AWS | Azure|
+| Operating System | MacOs, Windows |
+| Version control | GIT |
+
+## :notebook_with_decorative_cover: Skill Elaboration
+
+| Skill | Technologies used to work or Known | 
+|:--|:------------|
+| Python | Numpy, Pandas,Spark ,Matplotlib, Seaborn, Plotly, Scikit-Learn, pickle, Keras, Open-cv, Tensorflow, Pytorch |
+| Machine Learning | Linear Regression, Logistic Regression, Decision Tree, Support vector machine, Naive Bayes, Ensemble technique, Hyper parameter tunning  |
+| Deep Learning | Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network |
+| Natural Language Processing | Encoder-Decoder, Self Attention, Transformer, Transfer Learning models |
+
+
+  ## &#x1f4c8; GitHub Stats
+<a href="https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-sing-bisht&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="40%"/>
+</a>
+<a href="https://github.com/vaibhav-sing-bisht/vaibhav-sing-bisht">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav-sing-bisht&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vaibhav's GitHub Stats" width="56%" />
+</a>
+
+
+
+<br>
+<br>
